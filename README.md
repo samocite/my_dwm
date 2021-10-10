@@ -17,12 +17,20 @@
   点击空标签栏出错
 ## 配套工具
   文件管理器 thunar + ranger
+  
   进程管理 htop
+  
   电源管理 acpi
+  
   网络管理 networkmanager
+  
   应用搜索 rofi
+  
   输入法 fcitx5
+  
   终端模拟器 alacritty
+  
   alpha效果 picom
+  
   截图工具 flameshot
   
